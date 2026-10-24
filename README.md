@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TejaswiniKP206&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-8B5CF6?style=for-the-badge" alt="AI and ML focus" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-WORK-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" /> 
   <img src="https://img.shields.io/badge/Open_to-Learning-06B6D4?style=for-the-badge" alt="Open to learning" />
 </p>
 
@@ -18,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-Hey there! I'm **Tejaswini K P**, a third-year B.E. student specializing in **Artificial Intelligence and Machine Learning**.
+Hey there! I'm **Tejaswini K P**, a 3rd year B.E. student specializing in **Artificial Intelligence and Machine Learning**.
 
 I'm passionate about exploring technology, building useful applications, and turning ideas into working projects. I enjoy experimenting with AI/ML, developing web applications, and strengthening my problem-solving skills through coding.
 
@@ -36,16 +37,34 @@ I'm passionate about exploring technology, building useful applications, and tur
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Development
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,flask&theme=dark" alt="Python, Java, C, HTML, CSS, JavaScript, React and Flask" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" alt="Java, Python, C++ and C" />
 </p>
 
-### ⚙️ Tools & Platforms
+### 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark" alt="Flask, Node.js and Express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" alt="MongoDB, MySQL, PostgreSQL and SQLite" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
 </p>
 
 ---
@@ -93,6 +112,20 @@ A music application project focused on learning full-stack development and music
 - 🔗 Connected frontend interactions with backend API endpoints.
 
 **Technologies:** React, JavaScript, Tailwind CSS, Flask, SQLite.
+
+
+### 🎓 Placement Management System
+
+A team-based application designed to streamline campus placement activities and manage placement-related information.
+
+- ⚙️ **Backend Development:** Developed server-side logic using Node.js and Express.js.
+- 🔌 **API Development:** Worked on backend APIs to support application functionality.
+- 🔐 **Authentication:** Implemented login and authentication functionality.
+- 🗄️ **Database Operations:** Worked on database interactions and data management.
+- 🔄 **CRUD Operations:** Implemented create, read, update, and delete operations for managing application data.
+- 🤝 **Team Collaboration:** Collaborated with teammates to develop the application.
+
+**Technologies:** Node.js, Express.js, Firebase
 
 ### 🤖 AI/ML Experiments
 
@@ -149,9 +182,6 @@ Collaborated with classmates to organize Developers Conclave, gaining experience
 </p>
 
 <p align="center">
-<a href="mailto:tejaswini2006.12@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-</a>
 </p>
 
 ---
