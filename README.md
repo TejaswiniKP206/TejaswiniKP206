@@ -12,7 +12,7 @@
 <h1 align="center">✨ Welcome to My Digital Playground! ✨</h1>
 
 <p align="center">
-  <img src="./luffy-yo-one-piece.gif" width="100%" alt="Luffy yo from One Piece" />
+  <img src="./yo-one-piece.gif" width="100%" alt="Luffy yo from One Piece" />
 </p>
 
 ---
