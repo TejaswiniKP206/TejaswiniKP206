@@ -12,7 +12,7 @@
 <h1 align="center">✨ Welcome to My Digital Playground! ✨</h1>
 
 <p align="center">
-  <img src="./luffy-one-piece.gif" width="100%" alt="Luffy from One Piece" />
+  <img src="./luffy-yo-one-piece.gif" width="100%" alt="Luffy yo from One Piece" />
 </p>
 
 ---
@@ -90,6 +90,12 @@ My current learning goals:
 - 🌐 Develop responsive frontend applications and Flask backends.
 - 🔨 Build projects that connect theoretical concepts with practical applications.
 - 📈 Maintain consistency through coding practice and GitHub contributions.
+
+---
+
+<p align="center">
+  <img src="./luffy-one-piece.gif" width="100%" alt="Luffy from One Piece" />
+</p>
 
 ---
 
