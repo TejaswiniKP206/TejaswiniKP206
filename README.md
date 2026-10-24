@@ -105,15 +105,6 @@ A growing collection of experiments to practice machine learning concepts, data 
 
 **Technologies:** Python and relevant ML libraries as used in individual experiments.
 
-> 🔗 **Project links:** Add your individual repository URLs to these project sections once they are published. No repository links have been assumed here.
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejaswiniKP206&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
-</p>
 
 ---
 
@@ -130,13 +121,6 @@ A growing collection of experiments to practice machine learning concepts, data 
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswiniKP206&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
-
----
 
 ## 🧑‍🏫 Mentoring & Leadership
 
@@ -153,17 +137,6 @@ Collaborated with classmates to organize Developers Conclave, gaining experience
 
 ---
 
-## 🎖️ Certifications & Recognition
-
-- 🤖 **Machine Learning Mentor** — Mentoring experience at Jain Institute of Technology, Davangere.
-- 💻 **Full Stack Development Mentor** — Mentoring experience at Jain Institute of Technology, Davangere.
-- 🏅 **Departmental Recognition** — Recognized by DSCE's Department of AI & ML.
-- 🚀 **Developers Conclave Organizer** — Technical event organization and collaboration experience.
-
-*These entries describe the mentoring, recognition, and leadership experiences provided. Formal certificate titles and verification links can be added if available.*
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -176,7 +149,9 @@ Collaborated with classmates to organize Developers Conclave, gaining experience
 </p>
 
 <p align="center">
-  💌 <b>Email:</b> Not added yet — include a public contact email here if you want recruiters to reach you directly.
+<a href="mailto:tejaswini2006.12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+</a>
 </p>
 
 ---
