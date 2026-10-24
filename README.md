@@ -1,110 +1,215 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Tejaswini K P</h1>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=TejaswiniKP206">
-    <img src="https://komarev.com/ghpvc/?username=TejaswiniKP206&label=Profile%20views&color=00FFFF&style=flat-square" alt="TejaswiniKP206's profile views" />
-  </a>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tejaswini+K+P+%F0%9F%91%8B;AI%2FML+Student+%F0%9F%A4%96;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Animated typing introduction" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 🎓 I'm a 3rd-year Artificial Intelligence and Machine Learning engineering student.
-- 🌱 Currently learning AI/ML, web development, and software engineering.
-- 💻 Building projects using React, Python, Flask, and databases.
-- 🤖 Exploring machine learning and practical AI applications.
-- 👯 Open to collaborating on web development and beginner-friendly AI/ML projects.
-- 📚 Constantly learning new technologies and improving my problem-solving skills.
-- 🚀 Aspiring AI/ML engineer and full-stack developer.
-
-
-## 🧠 My Focus Areas
-- Artificial Intelligence & Machine Learning
-- Python Programming
-- Java Programming
-- Full-Stack Web Development
-- Data Structures & Algorithms
-- Natural Language Processing
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TejaswiniKP206&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-8B5CF6?style=for-the-badge" alt="AI and ML focus" />
+  <img src="https://img.shields.io/badge/Open_to-Learning-06B6D4?style=for-the-badge" alt="Open to learning" />
+</p>
+
+<h1 align="center">✨ Welcome to My Digital Playground! ✨</h1>
+
+<p align="center">
+  <i>A curious mind, a growing developer, and a believer in learning by building.</i>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+Hey there! I'm **Tejaswini K P**, a third-year B.E. student specializing in **Artificial Intelligence and Machine Learning**.
+
+I'm passionate about exploring technology, building useful applications, and turning ideas into working projects. I enjoy experimenting with AI/ML, developing web applications, and strengthening my problem-solving skills through coding.
+
+- 🎓 Pursuing B.E. in Artificial Intelligence and Machine Learning.
+- 🤖 Exploring AI/ML concepts through hands-on experiments.
+- 🌐 Building my skills in frontend and backend web development.
+- 🧩 Practicing Java and Data Structures & Algorithms.
+- 🧑‍🏫 Experienced in mentoring students in Machine Learning and Full Stack Development.
+- 🤝 Interested in teamwork, collaboration, and organizing technical events.
+- 🎯 Goal: Secure an internship and grow into a skilled AI/ML and Full Stack Developer.
+
+> 💜 *"Every bug I fix teaches me something, and every project I build takes me one step forward."*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,flask&theme=dark" alt="Python, Java, C, HTML, CSS, JavaScript, React and Flask" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence_%26_ML-8B5CF6?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Artificial Intelligence and Machine Learning" />
+  <img src="https://img.shields.io/badge/Java_%26_DSA-EC4899?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java and Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Web_Development-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Web Development" />
+</p>
+
+My current learning goals:
+
+- 🧠 Strengthen my understanding of machine learning algorithms.
+- ☕ Improve Java programming and DSA problem-solving.
+- 🌐 Develop responsive frontend applications and Flask backends.
+- 🔨 Build projects that connect theoretical concepts with practical applications.
+- 📈 Maintain consistency through coding practice and GitHub contributions.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎒 MisplacedMate — Lost & Found Android App
+
+An Android application designed to help users report, search for, and find lost belongings.
+
+- 📱 Developed an interface with multiple screens.
+- 🗃️ Used SQLite for local data storage.
+- 🔥 Integrated Firebase Realtime Database for synchronization.
+- 📷 Implemented camera and gallery image selection.
+- 🔍 Added search and Lost/Found filtering functionality.
+
+**Technologies:** Android, Java, SQLite, Firebase.
+
+### 🎵 Echo — Spotify-Inspired Music Application
+
+A music application project focused on learning full-stack development and music library management.
+
+- 🎧 Built a React-based frontend using Vite.
+- 🐍 Developed backend functionality using Flask.
+- 🗄️ Used SQLite for database management.
+- 👤 Implemented user authentication and playlist-related functionality.
+- 🔗 Connected frontend interactions with backend API endpoints.
+
+**Technologies:** React, JavaScript, Tailwind CSS, Flask, SQLite.
+
+### 🤖 AI/ML Experiments
+
+A growing collection of experiments to practice machine learning concepts, data analysis, and model development.
+
+- 🧪 Explore algorithms and datasets.
+- 📊 Practice preprocessing and exploratory data analysis.
+- 🧠 Learn model training and evaluation.
+- 📚 Document experiments and lessons learned.
+
+**Technologies:** Python and relevant ML libraries as used in individual experiments.
+
+> 🔗 **Project links:** Add your individual repository URLs to these project sections once they are published. No repository links have been assumed here.
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TejaswiniKP206&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TejaswiniKP206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniKP206&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TejaswiniKP206&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswiniKP206&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
+## 🧑‍🏫 Mentoring & Leadership
+
+### 🤖 Machine Learning Mentor
+Mentored students at Jain Institute of Technology, Davangere, as part of an internship initiative.
+
+### 💻 Full Stack Development Mentor
+Mentored students at Jain Institute of Technology, Davangere, as part of an internship initiative.
+
+### 🚀 Developers Conclave Organizer
+Collaborated with classmates to organize Developers Conclave, gaining experience in teamwork, event coordination, communication, and collaborative problem-solving.
+
+🏅 **Recognition:** Recognized by DSCE's Department of AI & ML.
+
+---
+
+## 🎖️ Certifications & Recognition
+
+- 🤖 **Machine Learning Mentor** — Mentoring experience at Jain Institute of Technology, Davangere.
+- 💻 **Full Stack Development Mentor** — Mentoring experience at Jain Institute of Technology, Davangere.
+- 🏅 **Departmental Recognition** — Recognized by DSCE's Department of AI & ML.
+- 🚀 **Developers Conclave Organizer** — Technical event organization and collaboration experience.
+
+*These entries describe the mentoring, recognition, and leadership experiences provided. Formal certificate titles and verification links can be added if available.*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejaswini-kp-122004334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
   <a href="https://github.com/TejaswiniKP206">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TejaswiniKP206&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="TejaswiniKP206's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=TejaswiniKP206&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="TejaswiniKP206's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=TejaswiniKP206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tejaswini K P's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswiniKP206&theme=tokyonight&radius=10" alt="TejaswiniKP206's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/TejaswiniKP206">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TejaswiniKP206&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </p>
 
-## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/tejaswini-kp-122004334">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:tejaswini2006.12@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+  💌 <b>Email:</b> Not added yet — include a public contact email here if you want recruiters to reach you directly.
 </p>
 
-## 💬 Quote
-> Teaching machines to learn while I'm still learning myself 🧠
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+## 💫 A Little More About Me
 
+```python
+class Tejaswini:
+    def __init__(self):
+        self.role = "AI/ML Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Web Development",
+            "Problem Solving"
+        ]
+        self.current_focus = [
+            "Java DSA",
+            "AI/ML Experiments",
+            "Full Stack Development"
+        ]
+        self.goal = "Become a skilled AI/ML and Full Stack Developer"
+
+    def keep_growing(self):
+        return "Learn. Build. Fail. Improve. Repeat. 🚀"
+```
+
+<p align="center">
+  <b>Thanks for visiting my profile! 💜</b>
+  <br/>
+  <i>Feel free to explore my repositories and follow my learning journey.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Purple wave footer" />
+</p>
