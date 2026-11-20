@@ -99,56 +99,72 @@ My current learning goals:
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🎒 MisplacedMate — Lost & Found Android App
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An Android application designed to help users report, search for, and find lost belongings.
+### 🎒 MisplacedMate — Lost & Found App
 
-- 📱 Developed an interface with multiple screens.
-- 🗃️ Used SQLite for local data storage.
-- 🔥 Integrated Firebase Realtime Database for synchronization.
-- 📷 Implemented camera and gallery image selection.
-- 🔍 Added search and Lost/Found filtering functionality.
+An Android application to report, search for, and find lost belongings.
+
+- 📱 Multiple-screen interface
+- 🗄️ SQLite local storage
+- 🔥 Firebase Realtime Database sync
+- 📷 Camera and gallery integration
+- 🔍 Search and Lost/Found filters
 
 **Technologies:** Android, Java, SQLite, Firebase.
 
-### 🎵 Echo — Spotify-Inspired Music Application
+</td>
+<td width="50%" valign="top">
 
-A music application project focused on learning full-stack development and music library management.
+### 🎵 Echo — Spotify-Inspired App
 
-- 🎧 Built a React-based frontend using Vite.
-- 🐍 Developed backend functionality using Flask.
-- 🗄️ Used SQLite for database management.
-- 👤 Implemented user authentication and playlist-related functionality.
-- 🔗 Connected frontend interactions with backend API endpoints.
+A music application built to explore full-stack development and music library management.
+
+- 🎧 React frontend using Vite
+- 🐍 Flask backend
+- 🗄️ SQLite database
+- 👤 User authentication
+- 🔗 Backend API integration
 
 **Technologies:** React, JavaScript, Tailwind CSS, Flask, SQLite.
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 Placement Management System
 
-A team-based application designed to streamline campus placement activities and manage placement-related information.
+A team-based application to streamline campus placement activities.
 
-- ⚙️ **Backend Development:** Developed server-side logic using Node.js and Express.js.
-- 🔌 **API Development:** Worked on backend APIs to support application functionality.
-- 🔐 **Authentication:** Implemented login and authentication functionality.
-- 🗄️ **Database Operations:** Worked on database interactions and data management.
-- 🔄 **CRUD Operations:** Implemented create, read, update, and delete operations for managing application data.
-- 🤝 **Team Collaboration:** Collaborated with teammates to develop the application.
+- ⚙️ Developed backend logic using Node.js and Express.js
+- 🔌 Worked on backend APIs
+- 🔐 Login and authentication
+- 🛠️ Database operations and CRUD functionality
 
-**Technologies:** Node.js, Express.js, Firebase
+**Technologies:** Node.js, Express.js.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 AI/ML Experiments
 
-A growing collection of experiments to practice machine learning concepts, data analysis, and model development.
+Exploring machine learning concepts through practical experiments and projects.
 
-- 🧪 Explore algorithms and datasets.
-- 📊 Practice preprocessing and exploratory data analysis.
-- 🧠 Learn model training and evaluation.
-- 📚 Document experiments and lessons learned.
+- 🧠 Learning ML algorithms
+- 📊 Working with datasets
+- 🧪 Experimenting with model development
 
-**Technologies:** Python and relevant ML libraries as used in individual experiments.
+**Technologies:** Python, AI/ML.
+
+</td>
+</tr>
+</table>
 
 
 ---
